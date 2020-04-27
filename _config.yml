@@ -1,21 +1,19 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: G Junk Yard
+author: JPGabarre
+email: juanplluisgabarre@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Explicacio del que faré com a projecte del treball final
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+baseurl: /jpgabarre.github.io
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+permalink: /projecteDAW
 texture:
-  title: Adam Denisov
+  title: G Junk Yard
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
@@ -24,9 +22,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  JPGabarre
     rss: rss
  
 
