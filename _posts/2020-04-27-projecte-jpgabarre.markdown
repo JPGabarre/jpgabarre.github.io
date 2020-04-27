@@ -3,12 +3,7 @@ layout: post
 title:  "G Junk Yard"
 date:   2019-05-23 16:00:00 +0530
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
-![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+Aquesta pàgina web el seu principal objectiu serà facilitar el treball dels treballadors d'un desguàs ajudant-los a portar l'inventari de cotxes facilitant-los també el saber quines mateixes peces d'aquell cotxe són les que estan disponibles i el preu «estàndard» (preu per el qual es sol vendre la peça) per així tindre una referencia, per últim estaria bé implementar una llista de tasques personalitzades per cada un dels treballadors intentant utilitzar el sistema LEAN.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+La idea és que hi hagui 3 rols d’usuaris:
