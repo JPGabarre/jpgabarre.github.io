@@ -4,13 +4,14 @@ email: juanplluisgabarre@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Explicacio del que faré com a projecte del treball final
 show_excerpts: true # set to true to show excerpts on the homepage
+base-url: /projecteDAW
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
 
-permalink: /projecteDAW
+permalink: 
 texture:
   title: G Junk Yard
   tagline: Developer. Designer
