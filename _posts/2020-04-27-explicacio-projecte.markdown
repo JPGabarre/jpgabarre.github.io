@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "G Junk Yard"
+title:  "Explicacio Projecte Final"
 description: Explicació del meu projecte de final de curs.
 ---
 Aquesta pàgina web el seu principal objectiu serà facilitar el treball dels treballadors d'un desguàs ajudant-los a portar l'inventari de cotxes facilitant-los també el saber quines mateixes peces d'aquell cotxe són les que estan disponibles i el preu «estàndard» (preu per el qual es sol vendre la peça) per així tindre una referencia, per últim estaria bé implementar una llista de tasques personalitzades per cada un dels treballadors intentant utilitzar el sistema LEAN.
