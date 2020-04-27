@@ -11,7 +11,7 @@ base-url: /projecteDAW
 sass:
   sass_dir: _sass
 
-permalink: 
+permalink: /projecteDAW
 texture:
   title: G Junk Yard
   tagline: Developer. Designer
