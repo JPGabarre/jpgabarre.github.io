@@ -13,11 +13,11 @@ Bàsicament aquest usuari el tindrà el cap del desguàs
 
   * **worker** : Usuari el qual només podrà accedir a l'inventari de peces sense cap mena de control d'edició només podrà veure'l i també podrà editar en les tasques quina tasca a fet i quina està fent. Aquest rol està fet pels treballadors els quals són els encarregats de desmuntar i descontaminar els cotxes, per tant el principal treballador pel qual aniran ambientada les tasques de la taula, que també haurà de comunicar quan hagi realitzat, comenci una tasca, etc.
 
-# Materials els quals tinc pensat utilitzar:
+## Materials els quals tinc pensat utilitzar:
   * SQL per la base de dades.
   * Per la part de programació utilitzaré Java (IDE NetBeans o Eclipse) i faré test a la base de dades i/o pàgina web.
   * Servidor serà Apache i pels mateixos dominis utilitzaré BIND.
   * El projecte a l'estar ambientat en gestió d'un inventari i tasques he pensat que seria millor fer el projecte en Laravel (així tinc la part de M07) i per la part de M06 i M09 tinc pensat utilitzar en les vistes del Laravel Javascript, Jquery o DOM, CSS, Bootstrap i/o AJAX.
 
-# Conclusions
+## Conclusions
 Al tindre la meva família un desguàs potser alguna d'aquestes coses proposades poden arribar a canviar amb el fi d'intentar adaptar el projecte a les necessitats que es creuen o proposin les persones que treballen en aquest sector i que per les quals va dirigida la web.
